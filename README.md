@@ -1,6 +1,6 @@
 # Tensorflow_tutorial_notebook
 
-There are 3 notebooks 
-1.Fundamentals
-2.AutoDiff_GradientTape
-3.Keras_Layers_Models
+# There are 3 notebooks 
+* 1.Fundamentals
+* 2.AutoDiff_GradientTape
+* 3.Keras_Layers_Models
