@@ -1,4 +1,4 @@
-# Tensorflow_tutorial_notebooka
+# Tensorflow_tutorial_notebooks
 
 # There are 3 notebooks 
 * 1.Fundamentals
